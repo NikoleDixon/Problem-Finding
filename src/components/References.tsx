@@ -15,8 +15,7 @@ export function References() {
           ))}
         </ul>
         <p className="mt-8 text-sm text-slate">
-          AI use disclosure: I used Claude (Anthropic) to read and summarize the assigned readings,
-          then checked the quotes and numbers against the originals.
+          AI use disclosure: I used Claude (Anthropic) to read and summarize the assigned readings. I read the summary. Very intresting!! I then asked it for ideas for an infographic and a mind map. I then asked it to create those both for me so i could get an idea of what they might look like. I then asked it to create a website with the data for the infographic. I looked through the information and adjusted it based on my researh and knowledge. 
         </p>
       </div>
     </footer>
